@@ -1,0 +1,7 @@
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\bin\Debug\ExtraDos-Ejercicio3.exe.config
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\bin\Debug\ExtraDos-Ejercicio3.exe
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\bin\Debug\ExtraDos-Ejercicio3.pdb
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\obj\Debug\ExtraDos-Ejercicio3.csprojAssemblyReference.cache
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\obj\Debug\ExtraDos-Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\obj\Debug\ExtraDos-Ejercicio3.exe
+C:\Users\famagra\source\repos\ExtraDos-Ejercicio3\ExtraDos-Ejercicio3\obj\Debug\ExtraDos-Ejercicio3.pdb
